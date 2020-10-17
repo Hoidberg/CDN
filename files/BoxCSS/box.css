@@ -1,0 +1,28 @@
+.box-8px {
+  display: flex;
+  width: calc(auto + 8px);
+  height: calc(auto + 8px);
+  justify-content: center;
+  align-items: center;
+}
+.box-16px {
+  display: flex;
+  width: calc(auto + 16px);
+  height: calc(auto + 16px);
+  justify-content: center;
+  align-items: center;
+}
+.box-48px {
+  display: flex;
+  width: calc(auto + 48px);
+  height: calc(auto + 48px);
+  justify-content: center;
+  align-items: center;
+}
+.box-64px {
+  display: flex;
+  width: calc(auto + 64px);
+  height: calc(auto + 64px);
+  justify-content: center;
+  align-items: center;
+}
